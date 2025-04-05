@@ -11,13 +11,14 @@ This project was developed for the **Intel Unnati** initiative. It showcases a s
 
 - Real-time color detection using OpenCV
 - HSV tuning for accurate recognition of Pink, Orange, and Yellow balls
-- Ball counting and classification display
-- Camera-based detection on a conveyor system
-- Designed using mechatronic principles
+- On-screen display of ball counts per color
+- Servo motor-based diverter system that sorts the balls into different boxes based on their color
+- Designed and implemented using **mechatronics principles**
 
 ## 🛠️ Tech Stack
 
 - Raspberry Pi
 - Python & OpenCV
 - USB Camera
-- Sorting Mechanism
+- - Servo Motor for physical sorting based on detection result
+- Basic mechanical conveyor system for ball movement
